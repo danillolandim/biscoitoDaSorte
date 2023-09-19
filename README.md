@@ -1,2 +1,2 @@
 
-![](./capa.png)
+![](./img/capa.png)
